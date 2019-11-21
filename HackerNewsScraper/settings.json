@@ -1,0 +1,4 @@
+{
+  "rootUrl": "https://hacker-news.firebaseio.com/v0",
+  "maxRequestParallelism": 10
+}
